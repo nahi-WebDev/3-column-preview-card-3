@@ -9,9 +9,9 @@ Name- helina teka - class number:25
 
 Name- helina  - class number:
 
-Name-   - class number:
+Name-  wangari dagne - class number:52
 
-Name-   - class number:
+Name- hana seyum  - class number:22
 
 Name-  - class number:
 
