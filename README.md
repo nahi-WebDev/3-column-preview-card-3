@@ -7,7 +7,7 @@ Name- henok tsegabezu - class number:27
 
 Name- helina teka - class number:25
 
-Name- helina  - class number:
+Name- helina temesgen  - class number:26
 
 Name-  wangari dagne - class number:52
 
