@@ -13,6 +13,10 @@ Name-  wangari dagne - class number:52
 
 Name- hana seyum  - class number:22
 
-Name-  - class number:
+Name- biruk tadesse  - class number:9
 
-Name-   - class number:
+Name- Baeti Endale  - class number:7
+
+Name- frihiwot mamushet - class number:17
+
+Name- asanti Kemal - class number:5
